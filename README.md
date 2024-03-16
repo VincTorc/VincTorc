@@ -1,5 +1,5 @@
-👋 Hi, I’m @VincTorc
-🌱 I'm an engineering student.
+- 👋 Hi, I’m @VincTorc
+- 🌱 I'm an engineering student.
 
 <!---
 VincTorc/VincTorc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
